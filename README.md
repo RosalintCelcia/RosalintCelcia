@@ -16,7 +16,7 @@
 - 🌱 Learning **Excel, Data Analytics & Machine Learning**  
 - 🤝 Looking to collaborate on **Python & ML Projects**  
 - 💬 Ask me about **Excel | Python | Power BI | SQL | Data Visualization**  
-- 📫 Reach me at **rosalintcelcia87@gmail.com**
+- 📫 Reach me at **rosalint.celciaa@gmail.com**
 
 ---
 
