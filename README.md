@@ -12,7 +12,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 Currently working on **Excel Skill Building Challenge**  
+- 🔭 Currently working on **SQL Skill Building Challenge**  
 - 🌱 Learning **Excel, Data Analytics & Machine Learning**  
 - 🤝 Looking to collaborate on **Python & ML Projects**  
 - 💬 Ask me about **Excel | Python | Power BI | SQL | Data Visualization**  
