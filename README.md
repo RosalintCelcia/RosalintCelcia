@@ -22,14 +22,6 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 
 <br>
 
-## 🚀 Projects Worth a Look
-
-<!--
-  Fill in your 3-5 strongest repos below. For each one:
-  - Swap YOUR_REPO_NAME for the exact repo name
-  - Write 1 line on the business problem it solves (not just the tech used)
-  This table is what actually gets recruiters to click through — keep it outcome-focused.
--->
 
 > 💡 Tip: also pin these same repos natively (Profile → Repositories → pin icon) — GitHub then displays a card grid automatically below this README, giving recruiters two ways to find them.
 
