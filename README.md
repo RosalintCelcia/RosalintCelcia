@@ -26,7 +26,7 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 ## 🚀 Featured Work
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RosalintCelcia&repo=sales-dashboard-powerbi-&theme=tokyonight" />
+  <img src="https://github.com/RosalintCelcia/sales-dashboard-powerbi-/blob/main/screenshots/Dashboard-Overview.png&theme=tokyonight" />
 </div>
 
 <br>
