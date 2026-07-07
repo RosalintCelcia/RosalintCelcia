@@ -4,7 +4,6 @@
 
 
 
-
 <img src="https://img.shields.io/badge/Open%20to%20Work-Bengaluru-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="open to work"/>
 
 
