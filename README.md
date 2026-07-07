@@ -28,7 +28,7 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 > 📌 Pin your top 4-6 repos on GitHub (Repositories → select a repo → click the pin icon) so this section leads recruiters straight to your best dashboards, ETL notebooks, and DAX projects.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RosalintCelcia&repo=REPLACE_WITH_REPO_NAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RosalintCelcia&repo=sales-dashboard-powerbi-&theme=tokyonight" />
 </div>
 
 <br>
