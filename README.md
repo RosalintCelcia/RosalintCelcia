@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rosalint+Celcia;Data+Analyst+%7C+BI+Developer;Power+BI+%7C+SQL+%7C+Python+%7C+Looker+Studio;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rosalint+Celcia;Data+Analyst+%7C+BI+Developer;Power+BI+%7C+SQL+%7C+Python+%7C+Looker+Studio;
+Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
 
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Bengaluru-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="open to work"/>
