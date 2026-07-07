@@ -22,9 +22,6 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 
 <br>
 
-
-> 💡 Tip: also pin these same repos natively (Profile → Repositories → pin icon) — GitHub then displays a card grid automatically below this README, giving recruiters two ways to find them.
-
 <br>
 
 ## 🛠️ Tech Stack
