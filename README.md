@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rosalint+Celcia;Data+Analyst+%7C+BI+Developer;Power+BI+%7C+SQL+%7C+Python+%7C+Looker+Studio;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=RosalintCelcia&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-Bengaluru-brightgreen?style=flat&logo=googlemaps&logoColor=white" alt="open to work"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Bengaluru-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="open to work"/>
+<img src="https://img.shields.io/badge/M.Sc.-AI%20%26%20Data%20Science-blue?style=for-the-badge" alt="degree"/>
 
 </div>
 
@@ -17,17 +17,27 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 - 📊 Specialize in **Power BI (advanced DAX), SQL, Python (ETL), Looker Studio**
 - 🎓 M.Sc. AI & Data Science — Karunya University
 - 🌱 Sharpening my **SQL & analytics skill set** through ongoing challenges
-- 🤝 Open to **Data Analyst / BI Developer / Reporting Analyst** roles in Bengaluru and Chennai
-- 👀 Check out my **pinned repos below** for dashboards, ETL scripts & dummy-data BI builds
+- 🤝 Open to **Data Analyst / BI Developer / Reporting Analyst** roles in Bengaluru
 - 📫 Reach me at **rosalint.celciaa@gmail.com**
 
 <br>
 
-## 🚀 Featured Work
+## 🚀 Projects Worth a Look
 
-<div align="center">
-  <img src="https://github.com/RosalintCelcia/sales-dashboard-powerbi-/blob/main/screenshots/Dashboard-Overview.png&theme=tokyonight" />
-</div>
+<!--
+  Fill in your 3-5 strongest repos below. For each one:
+  - Swap YOUR_REPO_NAME for the exact repo name
+  - Write 1 line on the business problem it solves (not just the tech used)
+  This table is what actually gets recruiters to click through — keep it outcome-focused.
+-->
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Project Name](https://github.com/RosalintCelcia/YOUR_REPO_NAME) | One-line business outcome, e.g. "Marketing dashboard tracking CAC & conversion across 5 channels" | Power BI, DAX |
+| [Project Name](https://github.com/RosalintCelcia/YOUR_REPO_NAME) | e.g. "ETL pipeline for lead-to-payment matching across CRM sources" | Python, SQL |
+| [Project Name](https://github.com/RosalintCelcia/YOUR_REPO_NAME) | e.g. "Real-time sales funnel dashboard with UTM-based lead attribution" | Looker Studio |
+
+> 💡 Tip: also pin these same repos natively (Profile → Repositories → pin icon) — GitHub then displays a card grid automatically below this README, giving recruiters two ways to find them.
 
 <br>
 
@@ -50,23 +60,6 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RosalintCelcia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosalintCelcia&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosalintCelcia&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RosalintCelcia&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4" alt="trophies"/>
-</div>
-
-<br>
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -84,5 +77,5 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 <br>
 
 <div align="center">
-  <sub>⭐️ Thanks for stopping by — feel free to explore my pinned repositories above!</sub>
+  <sub>⭐️ Thanks for stopping by — feel free to explore my projects above!</sub>
 </div>
