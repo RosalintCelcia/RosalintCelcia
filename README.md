@@ -17,15 +17,13 @@ I'm a Data Analyst / BI Developer with an M.Sc. in AI & Data Science, currently 
 - 📊 Specialize in **Power BI (advanced DAX), SQL, Python (ETL), Looker Studio**
 - 🎓 M.Sc. AI & Data Science — Karunya University
 - 🌱 Sharpening my **SQL & analytics skill set** through ongoing challenges
-- 🤝 Open to **Data Analyst / BI Developer / Reporting Analyst** roles in Bengaluru
+- 🤝 Open to **Data Analyst / BI Developer / Reporting Analyst** roles in Bengaluru and Chennai
 - 👀 Check out my **pinned repos below** for dashboards, ETL scripts & dummy-data BI builds
 - 📫 Reach me at **rosalint.celciaa@gmail.com**
 
 <br>
 
 ## 🚀 Featured Work
-
-> 📌 Pin your top 4-6 repos on GitHub (Repositories → select a repo → click the pin icon) so this section leads recruiters straight to your best dashboards, ETL notebooks, and DAX projects.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RosalintCelcia&repo=sales-dashboard-powerbi-&theme=tokyonight" />
