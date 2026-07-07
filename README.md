@@ -4,7 +4,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Bengaluru-&-Chennai-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="open to work"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Bengaluru-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="open to work"/>
 
 
 <img src="https://img.shields.io/badge/M.Sc.-AI%20%26%20Data%20Science-blue?style=for-the-badge" alt="degree"/>
